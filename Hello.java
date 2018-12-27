@@ -5,3 +5,5 @@ public class Hello{
         int x=10; 
       }
 }
+
+//end of main(-) method
